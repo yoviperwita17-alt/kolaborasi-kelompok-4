@@ -82,7 +82,7 @@ a {
   padding-bottom: 6rem;
   background-image:
     linear-gradient(to bottom, rgba(9, 13, 22, 0.4), rgba(9, 13, 22, 0.95)),
-    url("images/backround.jpeg");
+    url("backround.jpeg");
   background-size: cover;
   background-position: center;
 }
