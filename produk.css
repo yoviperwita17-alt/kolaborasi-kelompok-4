@@ -113,3 +113,5 @@ main {
     font-size: 1.35rem;
   }
 }
+header { padding-top: 110px !important; }
+.float-nav { padding: 10px 24px 10px 14px !important; min-height: 52px; }
