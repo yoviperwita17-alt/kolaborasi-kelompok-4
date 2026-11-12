@@ -459,3 +459,6 @@ summary {
     transform: translateY(0);
   }
 }
+.team-sosmed a:empty, .team-sosmed a img[src=""] {
+  display: none !important;
+}
